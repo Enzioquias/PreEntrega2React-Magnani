@@ -1,0 +1,23 @@
+.ButtonSet {
+    display: flex;              
+    justify-content: center;     
+    align-items: center;         
+    height: 5vh;               
+  }
+
+  .NavBarHeader{
+    display: flex;              
+    justify-content: center;     
+    align-items: center;         
+    height: 10vh;   
+  }
+
+  .BrandName{
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+.BrandLogo{
+height: 50px;
+width: 50px;
+}
